@@ -58,7 +58,7 @@ http://localhost:5173
 Выполнить команду:
 
 ```bash
-docker-compose up --build;
+docker-compose up --build
 ```
 
 Swagger - http://loaclhost:8000/docs
