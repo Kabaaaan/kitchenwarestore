@@ -55,7 +55,11 @@ http://localhost:5173
 ## Установка и запуск с Docker
 
 Перейти в корень приложения - /my-project;
-Выполнить команду docker-compose up --build;
+Выполнить команду:
+
+```bash
+docker-compose up --build;
+```
 
 Swagger - http://loaclhost:8000/docs
 Vue application - Swagger - http://loaclhost:8080/
