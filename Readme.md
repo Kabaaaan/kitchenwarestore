@@ -54,8 +54,13 @@ http://localhost:5173
 
 ## Установка и запуск с Docker
 
-Перейти в корень приложения - /my-project;
-Выполнить команду:
+```bash
+git clone https://github.com/Kabaaaan/kitchenwarestore.git
+```
+
+```bash
+cd kitchenwarestore
+```
 
 ```bash
 docker-compose up --build
