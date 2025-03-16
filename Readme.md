@@ -66,8 +66,8 @@ cd kitchenwarestore
 docker-compose up --build
 ```
 
-###Swagger - http://loaclhost:8000/docs
-###Vue application - http://loaclhost:8080/
+#Swagger - http://loaclhost:8000/docs
+#Vue application - http://loaclhost:8080/
 
 
 ## Основные функции приложения
